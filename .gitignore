@@ -1,0 +1,5 @@
+.env.local
+/venv/
+/Images/
+/Customise model Folder/runs/
+/Customise model Folder/Pills-Detection-3/
